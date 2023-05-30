@@ -1,0 +1,2 @@
+# .github
+Gaming related repositories
