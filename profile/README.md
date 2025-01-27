@@ -14,6 +14,8 @@ This organization also contains games that I often play.
 
 - [Cardforge](https://github.com/gbraad-gaming/personal-cardforge)  
   Cardforge for remote use
+- [Minecraft](https://github.com/gbraad-gaming/personal-minecraft-bedrock-server) Bedrock server  
+  Server for private use
 - ... and more
 
 > [!NOTE]
